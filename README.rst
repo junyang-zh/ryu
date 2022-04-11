@@ -1,3 +1,9 @@
+What's this fork
+==========
+It added lldp latency calculation feature to topology APIs, mainly for
+experiments.
+
+
 What's Ryu
 ==========
 Ryu is a component-based software defined networking framework.
